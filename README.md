@@ -2,6 +2,15 @@
 
 This is a web application for tracking calories, created with plain Html, bootstrap and Vanilla JavaScript using OOP.
 
+## How To Run the Application:
+ 1. Open a terminal window and change directory into the root folder of the applcation
+ 2. Run the command:
+ 
+         npm i 
+ 3. Then run the command:
+ 
+         npm run dev
+         
 ## It's made of 5 different classes:
 
 1. **CalorieTracker class**
